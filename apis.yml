@@ -1,0 +1,32 @@
+aid: ai-mastering
+name: AI Mastering
+description: "Automated Music Mastering"
+url: https://aimastering.com/api_docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: AI Mastering
+    description: "Automated Music Mastering"
+    humanURL: https://aimastering.com/api_docs/
+    baseURL: https://aimastering.com/api_docs/
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://aimastering.com/api_docs/
+common:
+  - type: Website
+    url: https://aimastering.com/api_docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
