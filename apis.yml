@@ -39,7 +39,6 @@ apis:
   - name: AI Mastering
     description: "Automated Music Mastering"
     humanURL: https://aimastering.com/api_docs/
-    baseURL: https://aimastering.com/api_docs/
     tags:
       - Music
     properties:
